@@ -1,0 +1,8 @@
+{
+  "enforcementEnabled": true,
+  "pollIntervalMillis": 1000,
+  "overrideCountdownSeconds": 5,
+  "cooldownMinutes": 10,
+  "overrideWindowMinutes": 15,
+  "studyEndsOn": "2026-11-30"
+}
